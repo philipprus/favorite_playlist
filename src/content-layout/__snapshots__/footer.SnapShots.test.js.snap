@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render footer correctly 1`] = `
+<div
+  className="MuiContainer-root makeStyles-footer-1 MuiContainer-maxWidthLg"
+>
+  <p>
+    Powered API by
+  </p>
+  <img
+    alt="Logo MusicMatch"
+    src={[Function]}
+  />
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div
+  className="MuiContainer-root makeStyles-footer-1 MuiContainer-maxWidthLg"
+>
+  <p>
+    Powered API by
+  </p>
+  <img
+    alt="Logo MusicMatch"
+    src={[Function]}
+  />
+</div>
+`;

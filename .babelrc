@@ -1,0 +1,9 @@
+{
+    "env": {
+    "test": {
+      "presets": ["@babel/env", "@babel/react"],
+      "plugins": ["transform-export-extensions", "@babel/plugin-transform-runtime"],
+ 
+    }
+  }
+}
